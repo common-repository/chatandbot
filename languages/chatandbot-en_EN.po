@@ -1,0 +1,62 @@
+# Copyright (C) 2022 ChatAndBot
+# This file is distributed under the same license as the Live Chat and ChatBot - ChatAndBot plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Live Chat and ChatBot - ChatAndBot 1.0.1\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_EN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.2.2\n"
+
+
+
+
+#. Plugin Name of the plugin
+msgid "Live Chat and ChatBot - ChatAndBot"
+msgstr "Live Chat and ChatBot - ChatAndBot"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://chatandbot.com"
+msgstr "https://chatandbot.com"
+
+#. Description of the plugin
+msgid ""
+"This plugin creates a live chat on your website to support your customers."
+msgstr ""
+"This plugin creates a live chat on your website to support your customers."
+
+#. Author of the plugin
+msgid "ChatAndBot"
+msgstr "ChatAndBot"
+
+#: chatandbot.php:51
+msgid "ChatAndBot Settings Page"
+msgstr "ChatAndBot Settings Page"
+
+#: chatandbot.php:51
+#: chatandbot.php:59
+msgid "ChatAndBot Settings"
+msgstr "ChatAndBot Settings"
+
+#: chatandbot.php:64
+msgid "Plugin ID
+msgstr "Plugin ID"
+
+#: chatandbot.php:69
+msgid ""
+"In your account on chatandbot.com copy the plugin id and paste it into this "
+"field."
+msgstr ""
+"In your account on chatandbot.com copy the plugin id and paste it into this "
+"field."
+
+#: chatandbot.php:73
+msgid "Save Change"
+msgstr "Save Change"

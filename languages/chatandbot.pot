@@ -1,0 +1,42 @@
+# Copyright (C) 2022 ChatAndBot
+# This file is distributed under the same license as the Live Chat and ChatBot - ChatAndBot plugin.
+
+
+#. Plugin Name of the plugin
+msgid "Live Chat and ChatBot - ChatAndBot"
+msgstr ""
+
+#. Author URI of the plugin
+#. Plugin URI of the plugin
+msgid "https://chatandbot.com"
+msgstr ""
+
+#. Description of the plugin
+msgid "This plugin creates a live chat on your website to support your customers."
+msgstr ""
+
+#. Author of the plugin
+msgid "ChatAndBot"
+msgstr ""
+
+#: chatandbot.php:51
+msgid "ChatAndBot Settings Page"
+msgstr ""
+
+#: chatandbot.php:51
+#: chatandbot.php:59
+msgid "ChatAndBot Settings"
+msgstr ""
+
+#: chatandbot.php:64
+msgid "Plugin ID"
+msgstr ""
+
+#: chatandbot.php:69
+msgid "In your account on chatandbot.com copy the plugin id and paste it into this field."
+msgstr ""
+#: chatandbot.php:73
+msgid "Save Change"
+msgstr ""
+
+
